@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "assets/images/astronaud23-tPzKUxvO0Wc-unsplash.jpg",                   
+		src: "assets/images/john-towner-JgOeRuGD_Y4-unsplash.jpg",                   
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "Engelberg, Schweiz",
-			url: "https://unsplash.com/photos/a-lake-with-a-house-in-the-middle-of-it-tPzKUxvO0Wc",
+			text: "Ancient Bristlecone Pine Forest, United States",
+			url: "https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4",
 		},
 	},
 	toc: {
