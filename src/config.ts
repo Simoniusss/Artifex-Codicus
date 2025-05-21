@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "assets/images/pexels-eberhardgross-730981.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/astronaud23-tPzKUxvO0Wc-unsplash.jpg",                   
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "Brown House in Between of Mountains", // Credit text to be displayed
-			url: "https://www.pexels.com/photo/brown-house-in-between-of-mountains-730981/", // (Optional) URL link to the original artwork or artist's page
+			text: "Engelberg, Schweiz",
+			url: "https://unsplash.com/photos/a-lake-with-a-house-in-the-middle-of-it-tPzKUxvO0Wc",
 		},
 	},
 	toc: {
