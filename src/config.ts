@@ -8,7 +8,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Artifex Codicus",
-	subtitle: "Demo Site",
+	subtitle: "Become smarter",
 	lang: "en", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
 		hue: 95, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -52,8 +52,8 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/javier-miranda-b_fob3Te8Uk-unsplash.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
+	avatar: "Simoniusss/fuwari/src/assets/images/meatsheeld_Star_Wars_helmet_design_cinematic_lighting_hyper-det_db1214f0-a58c-464d-9aa8-8192df8a2ab0.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "Astriloquus",
 	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 	links: [
 		{
