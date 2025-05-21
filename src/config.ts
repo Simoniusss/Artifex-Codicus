@@ -52,7 +52,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "Simoniusss/fuwari/src/assets/images/meatsheeld_Star_Wars_helmet_design_cinematic_lighting_hyper-det_db1214f0-a58c-464d-9aa8-8192df8a2ab0.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/meatsheeld_Star_Wars_helmet_design_cinematic_lighting_hyper-det_db1214f0-a58c-464d-9aa8-8192df8a2ab0.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Astriloquus",
 	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 	links: [
